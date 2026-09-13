@@ -1,2 +1,10 @@
-"backendMap/nuget.zip" 
-"backendMap/nuget.zip" 
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.suo
+*.dll
+*.pdb
+*.exe
+backendMap/nuget.zip
