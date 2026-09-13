@@ -321,3 +321,5 @@ D:\project\map\backend\mapback\obj\Debug\net8.0\scopedcss\bundle\backendMap.styl
 D:\project\map\backend\mapback\obj\Debug\net8.0\backendMap.csproj.Up2Date
 D:\project\map\backend\mapback\obj\Debug\net8.0\backendMap.genruntimeconfig.cache
 D:\project\map\backend\mapback\obj\Debug\net8.0\ref\backendMap.dll
+C:\wwwroot\sabzevar\apiweb-payonmap.sabzevar.ir\bin\Debug\net8.0\Map.Shared.Auth.dll
+C:\wwwroot\sabzevar\apiweb-payonmap.sabzevar.ir\bin\Debug\net8.0\Map.Shared.Auth.pdb
